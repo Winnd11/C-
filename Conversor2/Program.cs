@@ -56,5 +56,6 @@ class CurrencyClass
     {
         double cont = value * result;
         Console.WriteLine($"R${cont} = {symbol}{result}");
+        Console.ReadLine();
     }
 }

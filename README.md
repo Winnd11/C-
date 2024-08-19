@@ -1,10 +1,8 @@
-# Exercícios C#
-Meu repositório de C# contendo todos os meus exercícios que eu estou fazendo.
-<p>Nesse repositório irá conter:</p>
+# Exercises C#
+My C# repository containing my C# codes.
+<p>In this repository you can find:</p>
 <ul>
-  <li>Exercícios básicos</li>
-  <li>Exercícios feitos para rodarem no terminal com .NET</li>
-  <li>Arquivos .exe + .cs</li>
+  <li>Basic exercises</li>
+  <li>Exercises designed to run in the .NET terminal</li>
+  <li>.exe + .cs files</li>
 </ul>
-
-Pretendo no futuro recriar esses exercícios com uma interface gráfica utilizando o WPF.
